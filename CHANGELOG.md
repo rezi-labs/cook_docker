@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/rezi-labs/cook_docker/compare/v0.1.2...v0.1.3) (2025-11-21)
+
+
+### Bug Fixes
+
+* docker ([e06b795](https://github.com/rezi-labs/cook_docker/commit/e06b7953ff768ec97cad9ed5fc47e11a4d3385d3))
+
 ## [0.1.2](https://github.com/rezi-labs/cook_docker/compare/v0.1.1...v0.1.2) (2025-11-21)
 
 
