@@ -1,0 +1,13 @@
+services:
+  cook-server:
+    build: 
+      context: .
+      platforms:
+        - linux/arm64
+    platform: linux/arm64
+    ports:
+      - "9080:9080"
+    volumes:
+      - ./recipes:/app/recipes:ro
+    container_name: cook-server
+    restart: unless-stopped
